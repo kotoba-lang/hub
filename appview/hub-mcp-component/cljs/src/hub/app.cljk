@@ -70,7 +70,7 @@
    :app/routes []
    :app/vars []
    :app/xrpc? false
-   :app/relative-path "appview/hub-mcp-component/cljs/src/hub/app.cljs"})
+   :app/relative-path "appview/hub-mcp-component/cljs/src/hub/app.cljk"})
 
 (rf/reg-event-db
  :initialize-db
